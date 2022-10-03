@@ -1,0 +1,40 @@
+
+body{
+    background-color: #00488A;;
+}
+
+
+
+.logo1{
+    position: absolute;
+left: 0%;
+right: 50%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+width: 39.03px;
+height: 93px;
+
+}
+.logo2{
+    position: absolute;
+left: 14.26%;
+right: 14.26%;
+top: 16.55%;
+bottom: 0%;
+
+Width:55.81px;
+
+Height:77.61px;
+
+
+Top:15.39px;
+
+Left:11.13px;
+background: #000000;
+mix-blend-mode: multiply;
+
+/* Blend:11.13px */
+
+}
